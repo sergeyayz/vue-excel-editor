@@ -65,4 +65,7 @@
     "url": "https://github.com/sergeyayz/vue-excel-editor-ayz-fork/issues"
   },
   "homepage": "https://github.com/sergeyayz/vue-excel-editor-ayz-fork#readme"
+  "publishConfig": {
+   "@sergeyayz:registry": "https://npm.pkg.github.com"
+ }
 }
